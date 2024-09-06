@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(23, 241, 223);
+
+    background-color: red;
+
+    background-color: rgba(255,255,255,0.5)
+
+    
+}
+
+ul li {
+    display: inline;
+}
+/* https://developer.mozilla.org/ru/docs/Web/CSS/Comments
+бла бал бла
+ */
